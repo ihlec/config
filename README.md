@@ -34,7 +34,10 @@ Make sure to use the `visual-studio-code-bin` package from AUR.
 Available over `yaourt -S visual-studio-code-bin`.
 
 ## i3
+```
+~/.i3/config
+```
 The default condig of i3 uses `semicolon` in `resize-mode` to grow window width.
-I like to use `h` for that instead. 
+I like to use `h` for that instead.
 
 
