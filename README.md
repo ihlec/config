@@ -40,4 +40,7 @@ Available over `yaourt -S visual-studio-code-bin`.
 The default condig of i3 uses `semicolon` in `resize-mode` to grow window width.
 I like to use `h` for that instead.
 
-
+## Additional Installs
+- Chromium + uBlock
+- Detex (to prepare Latex for grammerly)
+- 
