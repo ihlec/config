@@ -42,5 +42,5 @@ I like to use `h` for that instead.
 
 ## Additional Installs
 - Chromium + uBlock
-- Detex (to prepare Latex for grammerly)
+- Detex (to prepare Latex for Grammerly)
 - 
