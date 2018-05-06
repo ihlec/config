@@ -20,6 +20,11 @@ Create the config file for keyboard custom keyboard maps:
 ```
 $ xmodmap -pke > ~/.Xmodmap
 ```
+For my lenovo x230 I needed to put:
+```
+ clear lock
+ keycode  66 = Escape NoSymbol Escape NoSymbol Escape
+```
 
 Test out the new mapping:
 ```
