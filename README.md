@@ -30,7 +30,7 @@ Test out the new mapping:
 ```
 $ xmodmap ~/.Xmodmap
 ```
-add `$ xmodmap ~/.Xmodmap` into `~.xinitrc` to load the map at startup.
+Manjaro i3 default config uses already the .Xmodmap file. If you use a diffrent i3 config add `$ xmodmap ~/.Xmodmap` into `~.xinitrc` to load the map at startup.
 
 
 
@@ -44,6 +44,8 @@ Available over `yaourt -S visual-studio-code-bin`.
 ```
 The default condig of i3 uses `semicolon` in `resize-mode` to grow window width.
 I like to use `h` for that instead.
+
+Also change the hotkey `mod + F2` to `chromium`.
 
 ## Additional Installs
 - Chromium + uBlock
