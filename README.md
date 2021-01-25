@@ -24,6 +24,7 @@ $ xmodmap ~/.Xmodmap
 Manjaro i3 default config uses already the .Xmodmap file. If you use a diffrent i3 config add `$ xmodmap ~/.Xmodmap` into `~.xinitrc` to load the map at startup.
 
 ## Visual Studio Code Settings
+```VSCode
 {
     "explorer.confirmDelete": false,
     "workbench.editorAssociations": [
@@ -32,14 +33,13 @@ Manjaro i3 default config uses already the .Xmodmap file. If you use a diffrent 
             "filenamePattern": "*.ipynb"
         }
     ],
+    
     "keyboard.dispatch": "keyCode",
     "python.showStartPage": false,
     "window.zoomLevel": 0,
     "nim.buildOnSave": true,
     "git.enableSmartCommit": true,
     "latex-workshop.intellisense.bibtexJSON.replace": {
-    
-        
     },
     "latex-workshop.view.pdf.viewer": "tab",
 
@@ -50,9 +50,9 @@ Manjaro i3 default config uses already the .Xmodmap file. If you use a diffrent 
     "<C-y>": false,
     "<C-z>": false,
     "<C-x>": false,
+    }
 }
-}
-
+```
 ## i3
 ```
 ~/.i3/config
